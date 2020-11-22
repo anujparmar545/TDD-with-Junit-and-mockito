@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: anujparmar
+Build-Jdk: 14.0.2
+Implementation-Title: tdd-02-02-project-begin
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/tdd-02-02-proj
+ ect-begin/
+Created-By: Maven Integration for Eclipse
+
